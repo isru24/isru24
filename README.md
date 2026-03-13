@@ -8,6 +8,7 @@
 ### Skills
 - Flutter & Dart
 - HTML, CSS, JavaScript
+- TypeScript
 - REST APIs & Node.js
 
 ---
