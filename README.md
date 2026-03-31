@@ -1,6 +1,6 @@
 # Hi, I'm Israel 👋
 
-💻 Junior Software Developer | Flutter & Web Developer  
+💻 Junior Software Developer | Mobile & Web Developer  
 🌍 Based in Addis Abeba, Ethiopia  
 
 ---
